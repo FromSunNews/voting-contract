@@ -1,3 +1,8 @@
+### My socials:
+- [Twitter](https://x.com/FromSunNews)
+- [Telegram](https://t.me/+84378630804)
+- [Linkedin](https://www.linkedin.com/in/tunhatphuong2002)
+
 # About this repository
 📘 This project is building smartcontract for mamaging account for aptopus products
 
@@ -46,3 +51,4 @@ submited_votes
    ***Description***: This function is close a vote session, switch is_active to false, just owner of voting session can do this action
    ***Arguments***: vote_session_id: u64
 # 📑 Lisence
+This project is licensed under the Apache-2.0 License. Original work is attributed to various sources such as the [Pontem Network](https://github.com/pontem-network/U256) and [Aptos Framework](https://github.com/aptos-labs/aptos-core).
